@@ -1,5 +1,5 @@
 {
-    "name": "Shell-Bot",
+    "name": "Shell",
     "description": "Telegram bot for executing shell commands",
     "keywords": [
       "telegram",
