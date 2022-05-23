@@ -1,14 +1,14 @@
 {
-    "name": "Shel",
+    "name": "terml",
     "description": "Telegram bot for executing shell commands",
     "keywords": [
       "telegram",
       "bot",
-      "shell"
+      "terminal"
     ],
-    "repository": "https://github.com/magneto261290/shell-bot",
-    "website": "https://github.com/magneto261290/shell-bot",
-    "success_url": "https://github.com/magneto261290/shell-bot/blob/master/README.md",
+    "repository": "https://github.com/magneto261290/termbot",
+    "website": "https://github.com/magneto261290/termot",
+    "success_url": "https://github.com/magneto261290/termbot/blob/master/README.md",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
