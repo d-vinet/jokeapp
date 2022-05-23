@@ -1,16 +1,15 @@
 {
-  "name": "shallbot",
+  "name": "Terminal-bot",
   "private": true,
   "version": "0.0.1",
   "keywords": [
     "telegram",
     "bot",
-    "shell",
     "terminal",
     "botgram"
   ],
-  "description": "Shellrunner Telegram bot",
-  "homepage": "https://github.com/botgram/shallbot",
+  "description": "Sellrunner Telegram bot",
+  "homepage": "https://github.com/botgram/sallbot",
   "dependencies": {
     "botgram": "^2.2",
     "escape-html": "1",
@@ -24,11 +23,11 @@
     "socks-proxy-agent": "^4.0.1"
   },
   "bugs": {
-    "url": "https://github.com/botgram/shallbot/issues"
+    "url": "https://github.com/botgram/sllbot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/botgram/shallbot.git"
+    "url": "https://github.com/botgram/sllbot.git"
   },
   "license": "MIT",
   "author": "Alba Mendez <me@alba.sh> (https://alba.sh)"
