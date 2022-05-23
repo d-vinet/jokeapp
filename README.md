@@ -1,4 +1,4 @@
-# shell-bot
+# terminalbot
 
 # How to use this Bot For Cloning?
 
@@ -63,7 +63,7 @@ and know your personal user's numeric ID. If you don't know what this
 means, check out the [blog post][] for a full step-by-step guide.
 
 ~~~
-git clone https://github.com/botgram/shell-bot.git && cd shell-bot
+git clone https://github.com/botgram/sbot.git && cd shbot
 npm install
 ~~~
 
@@ -93,7 +93,7 @@ that user the resulting link. If you want to use this bot on a group,
 
 ## Proxy server
 
-shell-bot obeys the `https_proxy` or `all_proxy` environment variable
+Terminal bot obeys the `https_proxy` or `all_proxy` environment variable
 to use a proxy, and supports HTTP/HTTPS/SOCKS4/SOCKS4A/SOCKS5 proxies.
 Examples:
 
@@ -111,4 +111,4 @@ node server
 
 [Telegram bot]: https://core.telegram.org/bots
 [Botgram]: https://botgram.js.org
-[blog post]: https://alba.sh/blog/telegram-shell-bot/
+[blog post]: https://alba.sh/blog/telegram-bot/
