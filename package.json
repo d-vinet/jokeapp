@@ -1,5 +1,5 @@
 {
-  "name": "shell-bot",
+  "name": "shallbot",
   "private": true,
   "version": "0.0.1",
   "keywords": [
@@ -10,7 +10,7 @@
     "botgram"
   ],
   "description": "Shellrunner Telegram bot",
-  "homepage": "https://github.com/botgram/shell-bot",
+  "homepage": "https://github.com/botgram/shallbot",
   "dependencies": {
     "botgram": "^2.2",
     "escape-html": "1",
@@ -24,11 +24,11 @@
     "socks-proxy-agent": "^4.0.1"
   },
   "bugs": {
-    "url": "https://github.com/botgram/shell-bot/issues"
+    "url": "https://github.com/botgram/shallbot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/botgram/shell-bot.git"
+    "url": "https://github.com/botgram/shallbot.git"
   },
   "license": "MIT",
   "author": "Alba Mendez <me@alba.sh> (https://alba.sh)"
