@@ -2,7 +2,7 @@ server {
   listen $PORT default_server;
 
   location / {
-    root   /usr/src/app/Downloads;
+    root   /app/Downloads;
     autoindex on;
   }
   location ~/qbittorrent(.*)$ {
