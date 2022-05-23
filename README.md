@@ -11,7 +11,7 @@ or
 2. Now deploy to heroku via this **Private repo**
 3. Thats It ! now run ``/run gclone`` or ``/run rclone`` (or even fclone) and enjoy
 
-Easy Detailed Tutorial here: https://telegra.ph/ShellBot-Cloning-Tutorial-08-22
+Easy Detailed Tutorial here: https://telegra.ph/SBot-Cloning-Tutorial-08-22
 
 
 # How to deploy?
