@@ -19,8 +19,8 @@
         "description": "Your telegram ID (not username)",
         "required": true
       },
-      "RCLONE_CONFIG_BASE64": {
-        "description": "Your Rclone config encoded using Base64",
+      "RCLONE_CONFIG_BASE_URL": {
+        "description": "Your Rclone config url",
         "required": false
       },
       "CREDENTIALS_LINK": {
