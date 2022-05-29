@@ -1,6 +1,4 @@
-FROM python:3-slim-buster
-
-# Install all the required packages
+FROM python:3-slim-buster # Install all the required packages
 WORKDIR /app
 RUN chmod 777 /app
 RUN apt-get -qq update
