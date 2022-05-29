@@ -1,4 +1,4 @@
-FROM python:3-slim-buster 
+FROM python:3-slim-buster
 # Install all the required packages
 WORKDIR /app
 RUN chmod 777 /app
