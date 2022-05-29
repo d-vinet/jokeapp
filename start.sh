@@ -1,6 +1,6 @@
 if [[ -n $RCLONE_CONFIG_BASE_URL ]]; then
 	echo "Rclone config detected"
-     mkdir /root/.config && mkdir /root/.config/rclone && wget -O /root/.config/rclone/rclone.conf $RCLONE_CONFIG_BASE_URL
+     mkdir /app/.config && mkdir /app/.config/rclone && wget -O /app/.config/rclone/rclone.conf $RCLONE_CONFIG_BASE_URL
 fi
 
 if [[ -n $BOT_TOKEN && -n $OWNER_ID ]]; then
@@ -15,7 +15,7 @@ fi
 
 if [[ -n $ACCOUNTS_FOLDER_LINK ]]; then
 	echo "accounts.zip detected"
-    wget $ACCOUNTS_FOLDER_LINK && unzip accounts.zip -d /root/accounts && rm *.zip
+    wget $ACCOUNTS_FOLDER_LINK && unzip accounts.zip -d /app/accounts && rm *.zip
 fi
 
 echo "SETUP COMPLETED"
